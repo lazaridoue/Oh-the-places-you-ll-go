@@ -1,0 +1,31 @@
+5
+Eleni
+Paris, France
+48.858372
+2.294481
+darkblue
+Eleni
+Amsterdam, Netherlands
+52.370216
+4.895168
+purple
+Eleni
+Hometown: Florina, Greece
+40.779442
+21.407595
+red
+Eleni
+Most Interesting Place: Honolulu, Hawaii
+21.306944
+-157.858337
+black
+Eleni
+China
+35.861660
+104.195396
+Orange
+
+# NOTES:
+# 1) The first number represents the number of entries in the file. Make sure you update that number if you add more.
+# 2) No spaces between entries! The code doesn't handle blank lines.
+# 3) Don't forget the type of data for each line as you create the code.
